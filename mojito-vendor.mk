@@ -783,6 +783,7 @@ PRODUCT_PACKAGES += \
     libtrustedapploader \
     libvideofilter_only \
     libvidhance \
+    libwa_dof \
     libwa_rtdof \
     libwms \
     libwqe \
